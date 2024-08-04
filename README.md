@@ -2,7 +2,7 @@ From Adelaide, South Australia.
 
 Student studying Game Programming at the Academy of Interactive Entertainment.
 
-Been programming ever since I had access to a computer. 5+ years of hobbyist experience.
+Been programming ever since I had access to a computer.
 
 Wide range of digital skills from C/C++ programming, C# programming, all the way to 3D modeling.
 
