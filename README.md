@@ -9,5 +9,5 @@ I have a wide range of digital skills from C / C++ programming, C# programming, 
 
 I have experience working in using Unity, Unreal Engine, and GameMaker Studio 2, working in frameworks such as Raylib, and even custom built engines.
 
-. [LinkedIn](https://www.linkedin.com/in/thomas-jackson-game-dev/)
-. [My Portfolio](https://thomasjackson.dev/)
+- [LinkedIn](https://www.linkedin.com/in/thomas-jackson-game-dev/)
+- [My Portfolio](https://thomasjackson.dev/)
