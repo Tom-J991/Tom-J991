@@ -1,14 +1,21 @@
 # Hi, 
-I'm Thomas Jackson a programmer from Adelaide, South Australia.
+I'm Thomas Jackson a games programmer from Adelaide, South Australia. I have a focus on gameplay, game systems, engine architecture, and computer graphics.
 
-I'm currently a Student studying Game Programming at the Academy of Interactive Entertainment.
-
-I've been programming pretty much ever since I had access to a computer and I'm extremely passionate about game programming whether it's engine, systems, gameplay programming, I'm always willing to learn new things.
+I've been programming ever since I had access to a computer and I'm extremely passionate about game programming whether it's game engines, game systems, gameplay programming, I'm always willing to learn new things.
 
 I have a wide range of digital skills from C / C++ programming, C# programming, all the way to 3D modelling.
 
-I have experience working in using Unity, Unreal Engine, and GameMaker Studio 2, working in frameworks such as Raylib, and even custom built engines.
+I have experience working in using Unity, Unreal Engine, and GameMaker Studio 2, working in frameworks such as Raylib, SDL, and even custom built engines.
 
-- [LinkedIn](https://www.linkedin.com/in/thomas-jackson-game-dev/)
+
+
+I studied Game Programming at AIE from 2023-2024.
+
+Currently studying Game Business at AIE.
+
+
+
+- [My Bluesky](https://bsky.app/profile/thomasjackson.dev)
+- [My LinkedIn](https://www.linkedin.com/in/thomas-jackson-game-dev/)
 - [My Portfolio](https://thomasjackson.dev/)
-- [Linktree](https://linktr.ee/thomasj.gamedev/)
+- [My Linktree](https://linktr.ee/thomasj.gamedev/)
