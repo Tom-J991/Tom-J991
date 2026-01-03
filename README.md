@@ -11,8 +11,6 @@ I have experience working in using Unity, Unreal Engine, and GameMaker Studio 2,
 
 I studied Game Programming at AIE from 2023-2024.
 
-Currently studying Game Business at AIE.
-
 
 
 - [My Bluesky](https://bsky.app/profile/thomasjackson.dev)
